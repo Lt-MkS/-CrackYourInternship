@@ -10,7 +10,7 @@ Day	Completed	Day	Completed	Day	Completed
 5  ✅     20         35
 6  ✅     21         36
 7  ✅     22         37
-8          23         38
+8  ✅    23         38
 9          24         39
 10         25         40
 11         26         41
