@@ -4,7 +4,7 @@ Daily progress tracker for the #CrackYourInternship challenge by Arsh Goyal. Thi
 
 Day	Completed	Day	Completed	Day	Completed
 1  ✅     16  ✅     31
-2  ✅     17         32
+2  ✅     17  ✅     32
 3  ✅     18         33
 4  ✅     19         34
 5  ✅     20         35
